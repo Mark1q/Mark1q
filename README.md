@@ -8,7 +8,7 @@
 Computer Science student at **Babeș-Bolyai University** with a strong passion for **web development** and **cybersecurity**. I love exploring the intersection of security and modern web technologies, building projects that solve real-world problems while keeping data safe.
 
 - 🔭 I'm currently working on expanding my cybersecurity toolkit and web scraping projects
-- 🌱 I'm currently learning advanced cryptographic techniques and React ecosystem
+- 🌱 I'm currently learning advanced cryptographic techniques and following the CS50's Introduction to Artificial Intelligence with Python
 - 🎯 I'm looking to collaborate on cybersecurity tools and innovative web applications  
 - 💬 Ask me about cryptography, web scraping, or building secure applications
 - 📫 How to reach me: mark.eduard7@gmail.com
