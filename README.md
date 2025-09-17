@@ -43,22 +43,6 @@ Computer Science student at **Babeș-Bolyai University** with a strong passion f
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1q&layout=compact&theme=radical)
 
-<details>
-<summary>📈 GitHub overview</summary>
-
-<table>
-  <tr>
-    <td valign="top">
-      ![Stats](https://github-readme-stats.vercel.app/api?username=Mark1q&show_icons=true&theme=radical&cache_seconds=86400)
-    </td>
-    <td valign="top">
-      ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1q&layout=compact&theme=radical&cache_seconds=86400)
-    </td>
-  </tr>
-</table>
-
-</details>
-
 ## 🚀 Featured Projects
 
 ### [CyberCade](https://github.com/vagrosu/HermesHackathon2024)
