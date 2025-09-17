@@ -56,7 +56,6 @@ Computer Science student at **Babeș-Bolyai University** with a strong passion f
 
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://streak-stats.demolab.com?user=Mark1q&theme=radical)
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 ## 🤝 Connect with Me
 
