@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mark Szeibert
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+UBB;Web+Development+%26+Cybersecurity+Enthusiast;Python+%7C+JavaScript+%7C+C%2B%2B+Developer;Building+Secure+%26+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+UBB;Web+Development+%26+AI+Enthusiast;Python+%7C+Java/JavaScript+%7C+C%2B%2B+Developer;Building+Secure+%26+Innovative+Solutions" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
