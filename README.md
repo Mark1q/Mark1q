@@ -56,7 +56,7 @@ Computer Science student at **Babeș-Bolyai University** with a strong passion f
 🕷️ JavaScript-powered suite of specialized web scrapers for extracting data from movies, recipes, weather, bestseller books, and song lyrics. Showcases versatility in handling diverse data formats and website structures.
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://streak-stats.demolab.com?user=Mark1q&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mark1q&theme=react-dark)
 
 ## 🤝 Connect with Me
 
