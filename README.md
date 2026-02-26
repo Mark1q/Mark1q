@@ -71,10 +71,10 @@ I'm a Computer Science student at Babeș-Bolyai University, specializing in full
 
 ## 💼 More Projects
 
-### [LibraFlow](https://github.com/Mark1q/LibraFlow)
+### [Library Management System](https://github.com/Mark1q/Library-Management-System)
 📚 **Desktop Library Management System** - Built with C++ and Qt framework, featuring clean architecture with Repository Pattern, Command Pattern, and MVC. Includes comprehensive unit testing and a modern UI for managing book collections, loans, and user accounts.
 
-### [Product CRUD API](https://github.com/Mark1q/simple-crud-api)
+### [NodeCore API](https://github.com/Mark1q/NodeCore-API)
 🔐 **Secure REST API** - Express.js backend with JWT authentication, MongoDB integration, and role-based access control (RBAC). Features Joi validation, bcrypt password hashing, and comprehensive error handling. Production-ready with environment configuration.
 
 ## 📈 Activity Graph
